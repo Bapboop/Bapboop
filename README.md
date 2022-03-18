@@ -1,7 +1,9 @@
 ### Hi there, my name is Robert! 👋
 
 
-[![Bapboop's GitHub stats](https://github-readme-stats.vercel.app/api?username=bapboop&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapboop&theme=tokyonight)
+<br>
+[![Bapboop's GitHub stats](https://github-readme-stats.vercel.app/api?username=bapboop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bapboop/Bapboop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
 <p dir="auto"><a href="https://www.linkedin.com/in/robertpopphan/" rel="nofollow"><img align="left" alt="Linkedin" width="30px" src="https://camo.githubusercontent.com/86a93b6653eb5a58d8ec3856ff774e4a13e13d6031a67b57d21768f9882098c6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e672f37363870782d4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" style="max-width: 100%;"></a>
 <a href="https://angel.co/u/robert-popphan" rel="nofollow"><img align="left" alt="Angel List" width="30px" src="https://camo.githubusercontent.com/b09fe6747f4f15aef73e63278bfb1f28dc27246674834c994656c1536f5dae81/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763514b71716c7a346a2d65396b53315931344d646a5f304d7635555830797963353963327033532d79704c7a64326e565f45594a3055567442646a64495f4e6b7831556d664926757371703d434155" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&amp;usqp=CAU" style="max-width: 100%;"></a>
 </p>
-<br>
 <br>
 
 
